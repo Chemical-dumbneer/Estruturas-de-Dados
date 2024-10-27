@@ -8,7 +8,7 @@
             "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "C:\\Program Files (x86)\\w64devkit\\bin",
+            "cwd": "C:\\msys64\\ucrt64\\bin",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
